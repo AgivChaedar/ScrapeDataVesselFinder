@@ -1,73 +1,67 @@
 
-# Vessel Data Scraper
+# Task Home Regtech
 
-This project is a web scraping script to collect vessel data from [VesselFinder](https://www.vesselfinder.com/vessels) using Selenium and Python. The script navigates through multiple pages and captures details about each vessel, storing the information in a CSV file.
+## Deskripsi Proyek
 
-## Table of Contents
-- [Overview](#overview)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output](#output)
-- [Troubleshooting](#troubleshooting)
+Proyek ini bertujuan untuk melakukan web scraping pada situs Vessel Finder untuk mengambil informasi kapal secara otomatis. 
+Data kapal ini meliputi nama kapal, tipe, estimasi waktu kedatangan (ETA), jarak/waktu, arah/kecepatan, draught saat ini, 
+status navigasi, posisi diterima, informasi IMO/MMSI, panggilan sinyal, bendera, serta panjang/lebar kapal. 
+Data ini disimpan dalam format CSV setelah diambil dari beberapa halaman situs.
 
-## Overview
+## Persyaratan
 
-The script collects data about vessels, such as their name, type, estimated time of arrival, speed, navigation status, and more. It loops through multiple pages on the website, accessing each vessel's detailed page and retrieving the relevant information.
+- Python 3.x
+- `selenium`
+- `pandas`
+- Google Chrome dan ChromeDriver
 
-## Technologies Used
-- Python
-- Selenium
-- pandas (for data handling)
-- WebDriver for Chrome
+## Struktur Kode
 
-## Installation
+Kode ini menggunakan Selenium WebDriver untuk mengontrol peramban dan mengakses halaman Vessel Finder, kemudian mengumpulkan 
+data kapal dari halaman utama serta halaman detail. Setelah data dari beberapa halaman diambil, data disimpan dalam file CSV.
 
-1. Install the required packages:
+## Penggunaan
+
+1. **Instalasi dependensi**:
+   Pastikan `selenium` dan `pandas` sudah terinstal. Jika belum, jalankan perintah berikut:
    ```bash
    pip install selenium pandas
    ```
-2. Download the Chrome WebDriver that matches your version of Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it in a known directory.
 
-3. Clone this repository:
+2. **Download ChromeDriver**:
+   Unduh versi [ChromeDriver](https://sites.google.com/chromium.org/driver/) yang sesuai dengan versi Google Chrome Anda. 
+   Tentukan path menuju file ini pada variabel `path` di kode.
+
+3. **Menjalankan kode**:
+   Setelah ChromeDriver siap dan diatur, jalankan skrip dengan:
    ```bash
-   git clone https://github.com/yourusername/vessel-data-scraper.git
+   python nama_file_script.py
    ```
-   
-4. Edit the `path` variable in the script to point to the location of your Chrome WebDriver.
 
-## Usage
-
-1. Run the script:
-   ```bash
-   python vessel_data_scraper.py
-   ```
-2. The script will navigate through multiple pages on the VesselFinder website, extracting information from each vessel's page.
-3. After completing the process, the data is saved to a CSV file in the specified location.
+4. **Data Output**:
+   File CSV dengan data kapal akan disimpan di path yang ditentukan dalam kode.
 
 ## Output
 
-The output is a CSV file (`vessel_detail_data_10hlmnew.csv`) containing the following information:
-- Vessel Name
-- Vessel Type
-- Predicted ETA
-- Distance / Time
-- Course / Speed
-- Current Draught
-- Navigation Status
-- Position Received
+File output yang dihasilkan berisi kolom-kolom sebagai berikut:
+- Nama Kapal
+- Tipe Kapal
+- Prediksi ETA
+- Jarak / Waktu
+- Arah / Kecepatan
+- Draught Saat Ini
+- Status Navigasi
+- Posisi Diterima
 - IMO / MMSI
-- Callsign
-- Flag
-- Length / Beam
+- Panggilan Sinyal
+- Bendera
+- Panjang / Lebar
 
-## Troubleshooting
+## Catatan
 
-### Timeout Issues
-If the script experiences timeouts, consider increasing the `WebDriverWait` duration or adding `time.sleep()` to ensure pages load fully before the script attempts to interact with elements.
+Pastikan koneksi internet stabil saat menjalankan kode ini, serta sesuaikan durasi waktu tunggu (wait time) sesuai dengan kecepatan 
+internet untuk menghindari error saat memuat halaman.
 
-### Pagination
-If the pagination changes or the website layout is updated, you may need to update the selectors for the "Next" button or the vessel detail elements.
+## Lisensi
 
-## License
-This project is licensed under the MIT License.
+Proyek ini bersifat terbuka untuk digunakan dalam pembelajaran dan pengembangan, tanpa jaminan apa pun.
