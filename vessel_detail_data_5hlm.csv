@@ -1,0 +1,101 @@
+Nama Kapal,Tipe Kapal,Prediksi ETA,Jarak / Waktu,Arah / Kecepatan,Draught Saat Ini,Status Navigasi,Posisi Diterima,IMO / MMSI,Panggilan Sinyal,Bendera,Panjang / Lebar
+PRELUDE,Offshore Support Vessel,-,-, ,19.1 m,-,7 days ago,9648714 / 503000101,VNKL,Australia,488 / 74 m
+PIONEERING SPIRIT,Crane Ship,,, ,11.5 m,-,8 days ago,9593505 / 249110000,9HA4112,Malta,382 / 124 m
+CORAL-SUL FLNG,Offshore Support Vessel,-,-, ,-,-,6 days ago,9831684 / 650000123,C91SPF,Mozambique,424 / 66 m
+ICON OF THE SEAS,Passenger (Cruise) Ship,-,-, ,9.1 m,Under way,49 min ago,9829930 / 311001178,C6FU5,Bahamas,365 / 68 m
+EVER ACME,Container Ship,,, ,14.3 m,Under way,2 min ago,9943267 / 563176600,9V7305,Singapore,400 / 62 m
+FSO AFRICA,FSO,-,-, ,18.5 m,Restricted,3 min ago,9224764 / 538002388,V7IJ5,Marshall Islands,380 / 68 m
+FSO ASIA,FSO,-,-, ,16.0 m,Restricted,1 min ago,9224752 / 538003426,V7QR6,Marshall Islands,380 / 68 m
+CMA CGM LOUVRE,Container Ship,-,-, ,15.8 m,Moored,2 min ago,9839143 / 228394900,FMMY,France,400 / 62 m
+CMA CGM CONCORDE,Container Ship,-,-, ,14.4 m,-,8 days ago,9839208 / 228401800,FMOF,France,400 / 62 m
+CMA CGM MONTMARTRE,Container Ship,,, ,12.7 m,-,7 days ago,9839155 / 228397700,FMNH,France,400 / 62 m
+CMACGM JACQUES SAADE,Container Ship,,, ,15.8 m,-,6 days ago,9839179 / 228386700,FLZE,France,400 / 62 m
+CMA CGM TROCADERO,Container Ship,,, ,16.0 m,Under way,1 min ago,9839167 / 228402900,FMOL,France,400 / 62 m
+CMA CGM PALAIS ROYAL,Container Ship,,, ,14.3 m,Under way,3 min ago,9839181 / 228394600,FMMT,France,400 / 62 m
+CMA CGM SORBONNE,Container Ship,,, ,16.0 m,-,11 days ago,9839210 / 228038360,FMPF,France,400 / 62 m
+CC CHAMPS ELYSEES,Container Ship,-,-, ,15.0 m,Moored,3 min ago,9839131 / 228386800,FLZF,France,399 / 61 m
+CMA CGM RIVOLI,Container Ship,,, ,13.4 m,-,3 days ago,9839193 / 228397600,FMNG,France,400 / 62 m
+UTOPIA OF THE SEAS,Passenger (Cruise) Ship,,, ,9.3 m,-,41 hours ago,9880001 / 311001259,C6G19,Bahamas,362 / 66 m
+EVER APEX,Container Ship,,, ,11.9 m,-,32 hours ago,9893979 / 563155500,9V7623,Singapore,399 / 62 m
+EVER ARIA,Container Ship,-,-, ,11.4 m,Moored,3 min ago,9909132 / 352001747,3E2585,Panama,399 / 61 m
+EVER ALOT,Container Ship,,, ,16.7 m,-,5 days ago,9893955 / 352001259,3E4008,Panama,399 / 61 m
+EVER ATOP,Container Ship,-,-, ,13.7 m,At anchor,15 min ago,9893993 / 563166100,9V7624,Singapore,399 / 62 m
+MSC MARIELLA,Container Ship,-,-, ,12.6 m,Moored,3 min ago,9934747 / 636022920,5LLB6,Liberia,399 / 61 m
+MSC IRINA,Container Ship,,, ,15.4 m,Under way,11 hours ago,9929429 / 636022601,5LJP3,Liberia,400 / 61 m
+MSC MICHELCAPPELLINI,Container Ship,,, ,14.5 m,Under way,0 min ago,9929431 / 636022604,5LJP6,Liberia,399 / 61 m
+MSC LORETO,Container Ship,-,-, ,16.4 m,-,18 hours ago,9934735 / 636022600,5LJP2,Liberia,399 / 60 m
+MSC MICOL,Container Ship,,, ,16.3 m,-,4 days ago,9931290 / 636023098,5LLY2,Liberia,400 / 61 m
+MSC TURKIYE,Container Ship,-,-, ,11.9 m,-,45 hours ago,9931288 / 636023099,5LLY3,Liberia,400 / 62 m
+MSC TESSA,Container Ship,-,-, ,12.0 m,-,12 days ago,9930038 / 636022102,5LHE8,Liberia,400 / 62 m
+MSC RAYA,Container Ship,,, ,13.6 m,-,7 days ago,9930052 / 636022103,5LHE9,Liberia,399 / 61 m
+MSC NICOLA MASTRO,Container Ship,,, ,15.4 m,Under way,0 min ago,9930064 / 636022605,5LJP7,Liberia,399 / 61 m
+MSC CELESTINOMARESCA,Container Ship,-,-, ,9.4 m,-,4 days ago,9930040 / 636022516,5LJE3,Liberia,399 / 61 m
+MSC CLAUDE GIRARDET,Container Ship,,, ,13.8 m,Under way,1 min ago,9936628 / 636022921,5LLB7,Liberia,399 / 61 m
+MSC CHINA,Container Ship,-,-, ,15.5 m,Under way,0 min ago,9936642 / 636023087,5LLW7,Liberia,399 / 61 m
+MSC GEMMA,Container Ship,,, ,13.2 m,Under way,2 hours ago,9936616 / 636022603,5LJP5,Liberia,399 / 61 m
+MSC METTE,Container Ship,-,-, ,12.1 m,Moored,6 min ago,9936630 / 636023084,5LLW4,Liberia,399 / 61 m
+WONDER OF THE SEAS,Passenger (Cruise) Ship,,, ,9.3 m,Under way,1 min ago,9838345 / 311001033,C6EY2,Bahamas,362 / 66 m
+EVER ARM,Container Ship,,, ,16.7 m,-,6 days ago,9893931 / 416070000,BHJG,Taiwan,400 / 62 m
+EVER AIM,Container Ship,,, ,15.0 m,-,32 hours ago,9893917 / 352980788,3E3532,Panama,400 / 62 m
+EVER ART,Container Ship,-,-, ,12.4 m,Moored,0 min ago,9893943 / 416071000,BHJH,Taiwan,400 / 62 m
+EVER ACE,Container Ship,-,-, ,13.3 m,Under way,6 hours ago,9893890 / 352986146,3E2382,Panama,400 / 62 m
+EVER ALP,Container Ship,,,237.6° / 20.5 kn,16.7 m,-,3 days ago,9893929 / 352898717,3E2012,Panama,400 / 62 m
+EVER ACT,Container Ship,,, ,12.8 m,Under way,8 hours ago,9893905 / 352978199,3E2429,Panama,400 / 62 m
+OOCL ZEEBRUGGE,Container Ship,,, ,15.6 m,-,3 days ago,9908140 / 477895500,VRVR2,Hong Kong,399 / 61 m
+OOCL VALENCIA,Container Ship,-,-, ,14.0 m,Moored,1 min ago,9922598 / 477928600,VRVW7,Hong Kong,399 / 61 m
+OOCL PIRAEUS,Container Ship,,, ,13.7 m,-,9 days ago,9908097 / 477886300,VRVG8,Hong Kong,399 / 61 m
+OOCL ABU DHABI,Container Ship,-,-, ,13.0 m,-,2 days ago,9922524 / 477929200,VRVW8,Hong Kong,399 / 61 m
+OOCL SWEDEN,Container Ship,,, ,14.5 m,Under way,6 min ago,9922603 / 477949300,VRWA7,Hong Kong,399 / 61 m
+OOCL FINLAND,Container Ship,,, ,12.1 m,-,5 days ago,9922536 / 477941100,VRVX3,Hong Kong,399 / 61 m
+OOCL DENMARK,Container Ship,-,-, ,11.5 m,-,4 days ago,9922548 / 477949400,VRWA8,Hong Kong,399 / 61 m
+OOCL SPAIN,Container Ship,-,-, ,12.9 m,-,3 days ago,9908126 / 477871600,VRVC6,Hong Kong,399 / 61 m
+OOCL FELIXSTOWE,Container Ship,,, ,15.8 m,Under way,5 min ago,9922512 / 477890700,VRVN7,Hong Kong,399 / 61 m
+OOCL GDYNIA,Container Ship,-,-, ,12.4 m,Moored,3 min ago,9908102 / 477895400,VRVR3,Hong Kong,399 / 61 m
+OOCL TURKIYE,Container Ship,,, ,14.0 m,Under way,0 min ago,9908138 / 477887800,VRVL3,Hong Kong,399 / 61 m
+OOCL PORTUGAL,Container Ship,-,-, ,14.7 m,Under way,22 min ago,9922615 / 477015400,VRWF8,Hong Kong,399 / 61 m
+ONE INFINITY,Container Ship,,, ,16.6 m,-,4 days ago,9933004 / 636023002,5LLL7,Liberia,399 / 61 m
+ONE INTELLIGENCE,Container Ship,-,-, ,14.0 m,Under way,1 min ago,9933121 / 636023310,5LNB8,Liberia,399 / 61 m
+ONE INNOVATION,Container Ship,,, ,13.5 m,Under way,11 hours ago,9939137 / 636022889,5LKX7,Liberia,400 / 61 m
+ONE INSPIRATION,Container Ship,,, ,14.5 m,Under way,1 min ago,9939149 / 636023348,5LNG9,Liberia,400 / 61 m
+ONE INGENUITY,Container Ship,,, ,13.7 m,-,44 hours ago,9933016 / 636023290,5LMZ3,Liberia,399 / 61 m
+ONE INTEGRITY,Container Ship,-,-, ,15.5 m,Moored,1 min ago,9933119 / 636022963,5LLG5,Liberia,399 / 61 m
+SA EUROPE,FSO,-,-, ,12.0 m,At anchor,4 hours ago,9235268 / 636022398,5LIP2,Liberia,380 / 68 m
+SA OCEANIA,FSO,-,-, ,22.0 m,At anchor,3 hours ago,9246633 / 636023619,5LOP4,Liberia,380 / 68 m
+MSC AMBRA,Container Ship,,, ,16.1 m,Under way,10 hours ago,9839480 / 352269000,3FKB,Panama,400 / 62 m
+MSC FEBE,Container Ship,-,-, ,14.2 m,Moored,0 min ago,9839478 / 372729000,3EXK8,Panama,400 / 62 m
+MSC MIA,Container Ship,-,-, ,15.3 m,At anchor,4 hours ago,9839466 / 355798000,HP6643,Panama,400 / 62 m
+MSC GULSUN,Container Ship,,, ,16.3 m,-,3 days ago,9839430 / 372003000,3FTV6,Panama,400 / 62 m
+MSC SAMAR,Container Ship,,, ,13.5 m,-,9 days ago,9839442 / 371047000,3FKE9,Panama,400 / 62 m
+MSC LENI,Container Ship,,, ,15.1 m,Under way,13 min ago,9839454 / 356432000,3FPV5,Panama,400 / 62 m
+HMM SOUTHAMPTON,Container Ship,-,-, ,15.2 m,Moored,2 min ago,9868340 / 440363000,D7JS,Korea,400 / 62 m
+HMM ST PETERSBURG,Container Ship,,, ,16.4 m,-,5 days ago,9868364 / 440486000,D7JX,Korea,400 / 62 m
+HMM OSLO,Container Ship,,, ,15.7 m,-,22 hours ago,9868326 / 440489000,D7JW,Korea,400 / 62 m
+HMM ROTTERDAM,Container Ship,,, ,13.1 m,Under way,4 hours ago,9868338 / 440328000,D7IB,Korea,400 / 62 m
+HMM STOCKHOLM,Container Ship,,, ,15.9 m,Under way,7 hours ago,9868352 / 440361000,D7JP,Korea,400 / 62 m
+SINGAPORE EXPRESS,Container Ship,,, ,16.4 m,Under way,11 min ago,9543093 / 211122000,DFPH2,Germany,400 / 61 m
+MANILA EXPRESS,Container Ship,,, ,13.9 m,-,38 hours ago,9540120 / 218006290,DCAU2,Germany,400 / 61 m
+BERLIN EXPRESS,Container Ship,-,-, ,13.9 m,-,8 days ago,9540118 / 211119000,DIVZ2,Germany,400 / 61 m
+HANOI EXPRESS,Container Ship,,, ,15.6 m,Under way,14 min ago,9540132 / 211120000,DFYX2,Germany,400 / 61 m
+BUSAN EXPRESS,Container Ship,-,-, ,13.2 m,-,35 hours ago,9540144 / 218026640,DPRP,Germany,400 / 61 m
+HAMBURG EXPRESS,Container Ship,-,-, ,13.5 m,Moored,1 min ago,9943865 / 211123000,DFPW,Germany,400 / 61 m
+DAMIETTA EXPRESS,Container Ship,,, ,16.4 m,-,3 days ago,9543108 / 218038370,DFPD2,Germany,400 / 61 m
+MSC DILETTA,Container Ship,-,-, ,11.0 m,-,5 days ago,9897004 / 636020598,D5ZY3,Liberia,400 / 61 m
+MSC APOLLINE,Container Ship,,, ,12.0 m,-,6 days ago,9896983 / 636020542,D5ZR3,Liberia,400 / 61 m
+MSC AMELIA,Container Ship,,, ,14.3 m,-,4 days ago,9896995 / 636020543,D5ZR4,Liberia,400 / 61 m
+MSC ALLEGRA,Container Ship,,, ,12.5 m,Under way,4 hours ago,9897028 / 636020600,D5ZY5,Liberia,400 / 61 m
+MSC MICHELLE,Container Ship,-,-, ,11.6 m,-,6 days ago,9897016 / 636020599,D5ZY4,Liberia,400 / 61 m
+MSC ISABELLA,Container Ship,,, ,14.9 m,Under way,0 min ago,9839272 / 353590000,HP3521,Panama,400 / 61 m
+MSC ARINA,Container Ship,,, ,14.6 m,-,25 hours ago,9839284 / 374607000,H9BV,Panama,400 / 61 m
+MSC MINA,Container Ship,,, ,13.5 m,-,16 hours ago,9839260 / 351862000,3ENB2,Panama,400 / 61 m
+MSC NELA,Container Ship,,,260.1° / 8.9 kn,13.5 m,Under way,0 min ago,9839296 / 356234000,HP7585,Panama,399 / 61 m
+MSC SIXIN,Container Ship,,,201.6° / 16.9 kn,11.9 m,-,35 hours ago,9839301 / 370711000,HP2652,Panama,400 / 61 m
+PETROBRAS P78,Offshore Support Vessel,-,-,360° / 0.0 kn,-,-,1 min ago,9959096 / 636021221,5LCW5,Liberia,-
+HMM LE HAVRE,Container Ship,,, ,16.3 m,-,9 days ago,9868314 / 440488000,D7JQ,Korea,400 / 61 m
+HMM DUBLIN,Container Ship,,, ,14.4 m,-,6 days ago,9863314 / 440348000,D7IS,Korea,400 / 61 m
+HMM COPENHAGEN,Container Ship,,, ,16.3 m,-,2 days ago,9863302 / 440487000,D7JR,Korea,400 / 61 m
+HMM HAMBURG,Container Ship,-,-, ,11.9 m,Moored,1 min ago,9863338 / 440223000,D7JM,Korea,400 / 61 m
+HMM HELSINKI,Container Ship,,, ,14.6 m,Under way,1 min ago,9863340 / 440288000,D7EL,Korea,400 / 61 m
+HMM GDANSK,Container Ship,,, ,12.1 m,-,6 days ago,9863326 / 440350000,D7JL,Korea,400 / 61 m
+HMM ALGECIRAS,Container Ship,-,-, ,13.9 m,-,10 days ago,9863297 / 440326000,D7JI,Korea,400 / 61 m
+SYMPHONY OF THE SEAS,Passenger (Cruise) Ship,-,-, ,9.2 m,-,22 hours ago,9744001 / 311000660,C6DF6,Bahamas,362 / 66 m
+HARMONY OF THE SEAS,Passenger (Cruise) Ship,-,-, ,9.3 m,-,3 days ago,9682875 / 311000396,C6BX8,Bahamas,362 / 66 m
