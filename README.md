@@ -8,13 +8,6 @@ Data kapal ini meliputi nama kapal, tipe, estimasi waktu kedatangan (ETA), jarak
 status navigasi, posisi diterima, informasi IMO/MMSI, panggilan sinyal, bendera, serta panjang/lebar kapal. 
 Data ini disimpan dalam format CSV setelah diambil dari beberapa halaman situs.
 
-## Persyaratan
-
-- Python 3.x
-- `selenium`
-- `pandas`
-- Google Chrome dan ChromeDriver
-
 ## Struktur Kode
 
 Kode ini menggunakan Selenium WebDriver untuk mengontrol peramban dan mengakses halaman Vessel Finder, kemudian mengumpulkan 
